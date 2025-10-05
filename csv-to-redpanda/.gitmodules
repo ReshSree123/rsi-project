@@ -1,0 +1,9 @@
+[submodule "rsi-backend"]
+	path = rsi-backend
+	url = https://github.com/ReshSree123/redpanda-rsi-calculator.git
+[submodule "rsi-calculator"]
+	path = rsi-calculator
+	url = https://github.com/ReshSree123/redpanda-rsi-calculator.git
+[submodule "rsi_processor"]
+	path = rsi_processor
+	url = https://github.com/ReshSree123/redpanda-rsi-calculator.git
